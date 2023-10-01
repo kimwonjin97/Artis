@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArtisApp", "ArtisApp\ArtisApp.vcxproj", "{36CE4E7E-96A4-4770-BC50-157143658BA3}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArtisEngine", "ArtisEngine\ArtisEngine.vcxproj", "{49769A33-2584-4104-98E6-C7BD2992047D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36CE4E7E-96A4-4770-BC50-157143658BA3}.Debug|x64.ActiveCfg = Debug|x64
+		{36CE4E7E-96A4-4770-BC50-157143658BA3}.Debug|x64.Build.0 = Debug|x64
+		{36CE4E7E-96A4-4770-BC50-157143658BA3}.Release|x64.ActiveCfg = Release|x64
+		{36CE4E7E-96A4-4770-BC50-157143658BA3}.Release|x64.Build.0 = Release|x64
+		{49769A33-2584-4104-98E6-C7BD2992047D}.Debug|x64.ActiveCfg = Debug|x64
+		{49769A33-2584-4104-98E6-C7BD2992047D}.Debug|x64.Build.0 = Debug|x64
+		{49769A33-2584-4104-98E6-C7BD2992047D}.Release|x64.ActiveCfg = Release|x64
+		{49769A33-2584-4104-98E6-C7BD2992047D}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFCD9328-CADA-40D9-B03E-EBFAFCF1704B}
+	EndGlobalSection
+EndGlobal
